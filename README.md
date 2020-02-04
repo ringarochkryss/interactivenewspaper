@@ -1,2 +1,2 @@
 # interactivenewspaper
-mile4
+django training
